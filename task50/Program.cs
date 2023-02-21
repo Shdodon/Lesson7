@@ -71,7 +71,7 @@ void FindIndex(int[,] findArray, int index1, int index2)
     }
     else
     {
-        Console.WriteLine($"{find}");
+        Console.WriteLine($"Элемент под таким индексом: {find}");
     }
 
 }
